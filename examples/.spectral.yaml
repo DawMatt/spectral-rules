@@ -1,0 +1,5 @@
+extends:
+# Sets of rules
+- openapi:oas3
+# Individual rules - Architecture
+- https://raw.githubusercontent.com/DawMatt/spectral-rules/main/src/info-contact.yaml
