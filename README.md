@@ -32,12 +32,14 @@ wild.
   - [spectral.yaml](https://github.com/Azure/azure-api-style-guide/blob/main/spectral.yaml)
   - [functions](https://github.com/Azure/azure-api-style-guide/tree/main/functions)
 * [Using Spectral in Postman](https://learning.postman.com/docs/api-governance/configurable-rules/spectral/)
-  * Collection of more than 250 individual Spectral rules shared via [Postman Open Technologies - Governance Rules](https://www.postman.com/postman/workspace/postman-open-technologies-governance-rules/overview) and [linting rules](https://github.com/postman-open-technologies/linting-rules/tree/main/_rules)
+  * Collection of more than 250 individual Spectral rules shared via [Postman Open Technologies - Governance Rules](https://www.postman.com/postman/workspace/postman-open-technologies-governance-rules/overview), [linting rules](https://github.com/postman-open-technologies/linting-rules/tree/main/_rules) and [spectral-postman repo](https://github.com/postmanlabs/spectral-postman/blob/master/.spectral.yaml)
 
 ## Blog Posts
 
 * [Custom OpenAPI Style Rules with Spectral](https://lornajane.net/posts/2020/custom-openapi-style-rules-with-spectral) by Lorna Jane Mitchell
 * [Test Driven Development for Your Spectral Rules, using Jest](https://www.jvt.me/posts/2021/12/22/spectral-jest/) by Jamie Tanna
+* [Create Better Quality API Documentation with Spectral](https://blog.stoplight.io/create-better-quality-api-documentation-with-spectral) by Phil Sturgeon
+* [Shift Left with These 6 Spectral Rules](https://blog.postman.com/shift-left-with-spectral-rules/) by Mark-Christian Reid
 
 ## Talks
 
